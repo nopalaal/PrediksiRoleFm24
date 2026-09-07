@@ -2,7 +2,8 @@
 
 Project Machine Learning pertama saya untuk memprediksi role pemain Football Manager 2024 berdasarkan atribut dan budget transfer.
 
-Model yang digunakan adalah XGBoost, dengan dataset yang diexport langsung dari data pemain FM24.
+Model yang digunakan adalah XGBoost.
+dataset yang diexport langsung dari data pemain FM24 dengan format html lalu di diubah menjadi csv.
 
 Tujuan
 
